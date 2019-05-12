@@ -5,7 +5,7 @@ public class AdditionResults {
 
     Addition myAddition = new Addition(num1,num2);
     
-    String output = String.format("The sum is %d", myAddition.getSum());
+    String output = String.format("The sum of %d", myAddition.getSum());
 
     System.out.println(output);
   }
