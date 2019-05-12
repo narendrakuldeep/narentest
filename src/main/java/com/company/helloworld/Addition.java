@@ -1,5 +1,4 @@
 public class Addition {
-
   public int num1;
   public int num2;
 
