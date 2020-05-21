@@ -4,7 +4,7 @@
 <groupId>com.company</groupId>
 <artifactId>helloworld</artifactId>
 <packaging>jar</packaging>
-<version>1.0.5-SNAPSHOT</version>
+<version>1.0.5-Testcases-SNAPSHOT</version>
 <name>helloworld</name>
 
 <dependencies>
@@ -26,11 +26,11 @@
   <distributionManagement>
     <snapshotRepository>
       <id>nexus-snapshots</id>
-      <url>http://172.31.0.217:8081/repository/sc_snapshot/</url>
+      <url>http://13.232.202.136:8081/repository/sc_snapshot/</url>
     </snapshotRepository>
     <repository>
       <id>nexus-releases</id>
-      <url>http://172.31.0.217:8081/repository/sc_release/</url>
+      <url>http://13.232.202.136:8081/repository/sc_release/</url>
     </repository>
   </distributionManagement>
 
