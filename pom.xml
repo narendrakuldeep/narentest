@@ -4,7 +4,7 @@
 <groupId>com.company</groupId>
 <artifactId>helloworld</artifactId>
 <packaging>jar</packaging>
-<version>1.0.5-Testcases-SNAPSHOT</version>
+<version>1.0.7</version>
 <name>helloworld</name>
 
 <dependencies>
